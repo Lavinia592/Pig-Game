@@ -5,7 +5,8 @@ $tree
 ```bash
 ## 📁 Project Structure
 Pig-Game/
-│.prettierrc - format settings for VSC.
+│
+├──.prettierrc - format settings for VSC.
 ├── dice-*.png - pictures used for dices.
 ├── index.html - html file for website structure.
 ├── script.js - javascript code for game functionality.
