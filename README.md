@@ -2,8 +2,8 @@
 ## A game project where functionalities like roll dice, hold score and reset the game were implemented using DOM manipulation, handling events and game logic.
 ---------------------------------------------------------------------------------------------------------------
 $tree
-```bash
 ## 📁 Project Structure
+```bash
 Pig-Game/
 │
 ├──.prettierrc - format settings for VSC.
