@@ -11,7 +11,7 @@ Pig-Game/
 ├── index.html - html file for website structure.
 ├── script.js - javascript code for game functionality.
 ├── style.css - css code for styling the webpage.
-
+```
 ## 🎮 How to play
 - __Player 1__ starts the game.
 - Player 1 rolls dice, as many times as they want but if you roll **1**, player is switched to **Player 2**
