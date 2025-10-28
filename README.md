@@ -1,2 +1,4 @@
-# 07-Pig-Game
-javascript project
+## 07-Pig-Game
+A fun javascript project
+
+---------------------------------------------------------------------------
