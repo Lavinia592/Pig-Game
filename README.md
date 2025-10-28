@@ -14,5 +14,5 @@ Pig-Game/
 ```
 ## 🎮 How to play
 - __Player 1__ starts the game.
-- Player 1 rolls dice, as many times as they want but if you roll **1**, player is switched to **Player 2**
+- Player can roll the dice many times but if the **dice is 1**, player is switched to **Player 2**
 - **First** to reach the **score 100** wins. 🎉
