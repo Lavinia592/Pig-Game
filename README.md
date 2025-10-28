@@ -1,10 +1,8 @@
 ## 07-Pig-Game
 A game project where functionalities like roll dice, hold score and reset the game were implemented using DOM manipulation, handling events and game logic.
-
-$tree
-
 ---------------------------------------------------------------------------------------------------------------
-
+$tree
+```bash
 ## 📁 Project Structure
 Pig-Game/
 │.prettierrc - format settings for VSC.
