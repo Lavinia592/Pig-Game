@@ -11,5 +11,3 @@ Pig-Game/
 ├── index.html - html file for website structure.
 ├── script.js - javascript code for game functionality.
 ├── style.css - css code for styling the webpage.
-
----------------------------------------------------------------------------------------------------------------
