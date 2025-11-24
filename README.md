@@ -1,6 +1,11 @@
+<div align="center"> 
+  
 # Pig-Game
 ## A game project where functionalities like roll dice, hold score and reset the game were implemented using DOM manipulation, handling events and game logic.
-### The project was made during "The complete javascript course" course.
+### The project was made during "The complete javascript course" course.  
+### ⚠️ Works only on desktop (For now..) ⚠️ 
+</div> 
+
 ---------------------------------------------------------------------------------------------------------------
 $tree
 ## 📁 Project Structure
